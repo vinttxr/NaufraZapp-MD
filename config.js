@@ -8,19 +8,19 @@ import axios from 'axios';
 import moment from 'moment-timezone'
 
 global.owner = [ //OWNERS
-["5493873232212", '𝙉𝙖𝙪𝙛𝙧𝙖𝙕𝙖𝙥𝙥-𝙈𝘿', true], 
-["573108625104"],
-["34626817680"],
-["5493873232221"],
-["523142183828"],
-["51918534156"],
-["527421168105"],
-["5491125655633"],
-["51929838430"],
-["529982464299"],
-["51921207166"],
-["5491125730852"],
-["5491133980551"]]
+["523337889542", '𝙣𝙚𝙘𝙧𝙤𝙝𝙚𝙠𝙗𝙤𝙩-𝙈𝘿', true], 
+["523338725926"],
+[""],
+[""],
+[""],
+[""],
+[""],
+[""],
+[""],
+[""],
+[""],
+[""],
+[""]]
 
 global.botNumberCode = ''
 global.confirmCode = ''
@@ -35,19 +35,19 @@ global.isdev = [['5493873232212'],
 ['51929838430']]
 
 
-global.packname = '𝙉𝘢𝘶𝘧𝘳𝘢𝙕𝘢𝘱𝘱-𝙈𝘋'
-global.author = '𝙉𝙖𝙪𝙛𝙧𝙖𝙜𝙤'
-global.wm = '𝙉𝘢𝘶𝘧𝘳𝘢𝙕𝘢𝘱𝘱-𝙈𝘋 │ ᵐᵘˡᵗⁱᵇᵒᵗ-ᵒᶠᶜ'
-global.wm2 = '𝙉𝘡│ᵇᵒᵗ'
-global.naufrago = '𝙉𝙖𝙪𝙛𝙧𝙖𝙕𝙖𝙥𝙥│ᴄᴀɴᴀʟ • ʸᵗ'
-global.cb = '🅽︎🆉︎︎'
+global.packname = '𝙣𝙚𝙘𝙧𝙤𝙝𝙚𝙠𝙗𝙤𝙩-𝙈𝘋'
+global.author = '𝘾𝘶𝘦𝘳𝘷𝘰'
+global.wm = '𝘾𝘶𝘦𝘳𝘷𝘰-𝙈𝘋 │ ᵐᵘˡᵗⁱᵇᵒᵗ-ᵒᶠᶜ'
+global.wm2 = '𝘾𝘕│ᵇᵒᵗ'
+global.naufrago = '𝘾𝘶𝘦𝘳𝘷𝘰│ᴄᴀɴᴀʟ • ʸᵗ'
+global.cb = '𝘾𝘕'
 
 global.vs = '1.8.0'
 global.library = 'Baileys'
 global.baileys = '@whiskeysockets/baileys'
 global.lenguaje = 'Español'
 global.menudi = ['⛶','❏','⫹⫺']
-global.dev = '✯ Naufrago ✯'
+global.dev = '✯ 𝙣𝙚𝙘𝙧𝙤𝙝𝙚𝙠 ✯'
 global.devnum = '+54 9 3873 23-2212'
 
 global.imgAll = fs.readFileSync('./Menu1.jpg')
@@ -131,8 +131,8 @@ global.jadibts = join(__dirname, 'jadibts/')
 global.raiz = './Menu1.jpg'
 */
 
-global.rwait = '⏰'
-global.done = '✅'
+global.rwait = '🎐'
+global.done = '🧪'
 global.error = '❌'
 
 //Cargando
